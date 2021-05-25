@@ -1,0 +1,35 @@
+
+body {
+  background-color: lightblue;
+}
+#Headding{
+	margin-top: 30px;
+	font-family: 'Reggae One' cursive;
+}
+.navbar_brand{
+	font-family:Reggae One;
+	font-size:30px;
+	
+	padding:0 100px;
+	font-weight:bold;
+}
+h1{
+	padding:10px 12px;
+	font-family:montserrat;
+	font-weight:bold;
+	margin-top:20px
+	
+}
+.text{
+	margin:0;
+	padding:0;
+	background-color:#555958;
+}
+.mb-1{
+	color: white;
+}
+.mb-0{
+	color: white;
+}
+
+
